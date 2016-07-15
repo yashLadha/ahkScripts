@@ -1,0 +1,2 @@
+^,::
+Send {Click Right}
